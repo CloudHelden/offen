@@ -1,7 +1,5 @@
 # 🚀 Cloudhelden Training Repository
 
-![Cloudhelden Logo](https://cloudhelden.de/wp-content/uploads/2022/06/cloudhelden-logo.png)
-
 ## Willkommen bei Cloudhelden!
 
 Dieses Repository enthält Trainingsmaterialien und Ressourcen für unsere AWS Cloud Workshops und Schulungen. 
